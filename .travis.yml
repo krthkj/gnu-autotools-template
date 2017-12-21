@@ -1,0 +1,18 @@
+language: c
+
+compiler: gcc
+
+before_install:
+
+install: true
+
+before_script:
+
+script: ./configure && make
+
+after_success: make clean
+
+after_failure: make clean
+
+after_script:
+
