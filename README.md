@@ -2,6 +2,7 @@
 
 Build status:
 [![travis][travis-img]](https://travis-ci.org/krthkj/gnu-autotools-template)
+
 [travis-img]: https://img.shields.io/travis/krthkj/gnu-autotools-template/master.svg?label=Linux
 
 [![Build Status](https://travis-ci.org/krthkj/gnu-autotools-template.svg?branch=master)](https://travis-ci.org/krthkj/gnu-autotools-template)
