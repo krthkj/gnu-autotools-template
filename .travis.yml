@@ -6,7 +6,7 @@ before_install:
 
 install: true
 
-before_script:
+before_script: autoreconf -f -i
 
 script: ./configure && make
 
