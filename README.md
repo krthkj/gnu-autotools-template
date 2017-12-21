@@ -9,5 +9,6 @@ This is a demonstration package for GNU Automake.
 Type 'info Automake' to read the Automake manual.
 
 ## Copying info
-Source for this template:
-GNU automake manual https://www.gnu.org/software/automake/manual/html_node/Creating-amhello.html
+Source for this template is GNU automake manual
+
+<https://www.gnu.org/software/automake/manual/html_node/Creating-amhello.html>
